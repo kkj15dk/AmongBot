@@ -1,0 +1,5 @@
+todo:
++ spotify import kunsternavn + titel i array for en playlist
++ afspil dette via botten
+- afgør om nogen skriver dette i chatten (vælg mellem kunstner, sang eller begge)
+- opdater point i database
